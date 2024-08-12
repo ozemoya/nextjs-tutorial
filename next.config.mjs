@@ -14,9 +14,3 @@ const nextConfig = {
 };
 
 export default nextConfig;
-
-{
-  "scripts": {
-    "build": "next build"
-  }
-}
